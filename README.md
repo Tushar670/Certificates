@@ -1,2 +1,2 @@
-# Certificates
-Certificates
+# Certificates & Projects
+Certificates & Projects
